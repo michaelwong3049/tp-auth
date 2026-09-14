@@ -37,8 +37,8 @@ Everything runs locally. No accounts, no servers, no network requests.
 ### 1. Install and build
 
 ```bash
-git clone https://github.com/michaelwong3049/ezAuth.git
-cd ezAuth
+git clone https://github.com/michaelwong3049/tp-auth.git
+cd tp-auth
 npm install
 npm run build
 ```
@@ -90,4 +90,4 @@ If Tock's codes are rejected, check that your computer's clock is set automatica
 
 ### Issues
 
-If you run into a problem, [open an issue](https://github.com/michaelwong3049/ezAuth/issues).
+If you run into a problem, [open an issue](https://github.com/michaelwong3049/tp-auth/issues).
